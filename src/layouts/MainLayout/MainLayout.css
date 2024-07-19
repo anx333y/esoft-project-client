@@ -1,0 +1,9 @@
+.main-layout-content {
+	display: flex;
+	overflow-y: auto;
+}
+
+.main-layout-outlet-wrapper {
+	width: 100%;
+	padding: 20px 40px;
+}
